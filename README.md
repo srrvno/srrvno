@@ -83,7 +83,6 @@ Built purely as a learning exercise, focusing on understanding both the algorith
   <img src="images/kmeans.gif" width="400">
 </p>
 
----
 
 ### **Perceptron & MLP**
 **[Repository](https://github.com/srrvno/perceptron)**
@@ -95,7 +94,6 @@ The goal is to understand neural networks from first principles, without relying
   <img src="images/perceptron.png" width="400">
 </p>
 
----
 
 ### **Support & Resistance Detection using Market Profile + KDE**
 **[Repository](https://github.com/srrvno/TG_ASRD_KDE)**
@@ -107,7 +105,6 @@ Designed with a strong emphasis on statistical reasoning and interpretability.
   <img src="images/kde_supres.gif" width="400">
 </p>
 
----
 
 ### **OAF — Optimal Area Finder**
 **[Repository](https://github.com/srrvno/Optimal-Area-Finder.git)**
@@ -119,14 +116,11 @@ Based on **meteorological station data**, the application provides a **visual re
   <img src="images/oaf.png" width="400">
 </p>
 
----
 
 ### **CUPS Report Analyzer**
 **[Repository](https://github.com/srrvno/CUPX)**
 
 A Python-based web application designed to streamline the analysis of **electricity consumption reports** for companies, providing insights in a faster, cleaner and more visual way.
-
----
 
 _To be continued..._
 
