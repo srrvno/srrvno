@@ -62,12 +62,12 @@ One of the domains that has consistently caught my attention is **algorithmic tr
 
 Not discretionary trading, but:
 
-- markets as complex systems
-- data as raw material
-- models as hypotheses
-- decisions driven by analysis, statistics and reproducibility
+- **markets** as **complex systems**
+- **data** as raw material
+- **models** as **hypotheses**
+- decisions driven by **analysis**, **statistics** and **reproducibility**
 
-It’s a domain where mathematics, algorithms and systems naturally intersect.
+It’s a domain where **mathematics, algorithms and systems naturally intersect**.
 
 ---
 
