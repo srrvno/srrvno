@@ -153,3 +153,13 @@ _To be continued..._
 - Most of my experience comes from building things from scratch to truly learn how they work
 - I’m more interested in robust reasoning than quick results
 - I value clarity, structure and reproducibility
+
+---
+
+## Looking ahead
+
+I’m open to working across different industries and domains, especially those where **software is a tool rather than the end goal**.
+
+I’m particularly interested in environments where programming is used to **model, simulate, analyze or control complex systems**, such as **robotics, medical technologies, defense, or other highly technical fields**.
+
+What motivates me is not the domain itself, but the challenge of understanding it deeply and building robust, well-reasoned tools on top of solid mathematical and algorithmic foundations.
