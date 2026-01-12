@@ -14,7 +14,7 @@ that understanding.
 ## About me
 
 I’m currently studying **Computer Science**, driven mainly by **curiosity** and a 
-genuine interest in the **fundamentals** behind software, data and complex systems.
+genuine interest in the **fundamentals** behind software, algortithms, data and complex systems.
 
 What motivates me the most is not a specific domain, but the **process of reasoning**:  
 **modeling problems**, understanding **constraints**, designing **algorithms** and translating
