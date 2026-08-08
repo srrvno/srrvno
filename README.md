@@ -58,7 +58,7 @@ Rather than seeing this as a separate direction, I see it as the **mathematical 
 
 ---
 
-## **PROJECTS**
+## **MAIN PROJECTS**
 
 ### **NatBT — Quantitative Research & Backtesting Framework**
 
